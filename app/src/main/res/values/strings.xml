@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Gomel Sights</string>
+
+    <!-- Screen route -->
+    <string name="splash">Splash</string>
+    <string name="onboarding">OnBoarding</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="placeCategories">Place Categories</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="map">Карта</string>
+    <string name="placeList">Place List</string>
+    <string name="placeDetail">Place Detail</string>
+
+    <string name="onboarding_heading_1">Популярные места</string>
+    <string name="onboarding_heading_2">Заметки всё самое избранное</string>
+    <string name="onboarding_heading_3">Пользуйтесь картой</string>
+    <string name="onboarding_description_1">Посещайте только самые интересные места, чтобы получить наилучшие впечатления</string>
+    <string name="onboarding_description_2">Если понравилось место, сохраните его в заметках</string>
+    <string name="onboarding_description_3">Карта - удобный способ ориентироваться в городе</string>
+
+    <string name="text_back_icon">Back Icon</string>
+    <string name="text_filter_icon">Filter Icon</string>
+    <string name="text_search_icon">Search Icon</string>
+    <string name="text_add_icon">Add Icon</string>
+    <string name="text_heart_icon">Heart Icon</string>
+
+    <string name="header_subtitle">Музеи, парки, архитектура, всё что угодно</string>
+    <string name="header_title">Познайте Гомель</string>
+    <string name="header_title_text">Категории</string>
+    <string name="header_title_bookmark">Закладки</string>
+    <string name="header_place_list_title_text">Объекты</string>
+    <string name="no_search_result">Нет найденных результатов</string>
+    <string name="search_hint">Найдите объект...</string>
+
+    <string name="book_mark_empty">Закладки пустые, сохраните что-нибудь!</string>
+
+    <string name="save">Сохранить</string>
+    <string name="kilometr">км</string>
+
+    <string name="map_variant_after_dark">Ночь</string>
+    <string name="map_variant_daytime">Серый</string>
+    <string name="map_variant_standard">Стандарт</string>
+
+    <string name="location_needed">Location permission is needed for this feature</string>
+    <string name="request_permission">Request Permission</string>
+
+
+
+</resources>

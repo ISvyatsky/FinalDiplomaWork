@@ -1,0 +1,1426 @@
+[
+  {
+    "xid": "N4441137589",
+    "name": "Дом-коммуна",
+    "dist": 867.32691647,
+    "rate": 7,
+    "osm": "node/4441137589",
+    "wikidata": "Q18147402",
+    "kinds": "architecture,historic_architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 30.996662139892578,
+      "lat": 52.43001937866211
+    },
+    "image": "https://i.ibb.co/Snps2yG/Gomel-Lenin-Avenue-House-of-the-Commune.png"
+  },
+  {
+    "xid": "Q42302938",
+    "name": "Дом врача Н.И. Александрова",
+    "dist": 1446.5280666,
+    "rate": 7,
+    "wikidata": "Q42302938",
+    "kinds": "historic_architecture,architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 31.006214141845703,
+      "lat": 52.42924118041992
+    },
+    "image": "https://i.ibb.co/vhWP7sb/image.png"
+  },
+  {
+    "xid": "Q104872906",
+    "name": "Дом на Советской улице, 20",
+    "dist": 1817.12548231,
+    "rate": 7,
+    "wikidata": "Q104872906",
+    "kinds": "historic_architecture,architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 31.011844635009766,
+      "lat": 52.42903518676758
+    },
+    "image": "https://i.ibb.co/rfQMs1F/20.png"
+  },
+  {
+    "xid": "Q104871673",
+    "name": "Дом на Советской улице, 12",
+    "dist": 1869.51681121,
+    "rate": 7,
+    "wikidata": "Q104871673",
+    "kinds": "historic_architecture,architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 31.0129337310791,
+      "lat": 52.42751693725586
+    },
+    "image": "https://i.ibb.co/NW31tcx/12.png"
+  },
+  {
+    "xid": "W104871673",
+    "name": "Доходный дом Лавьянова",
+    "dist": 1869.51681121,
+    "rate": 7,
+    "osm": "way/136864209",
+    "kinds": "historic_architecture,architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 31.013742,
+      "lat": 52.426434
+    },
+    "image": "https://i.ibb.co/vHc9Ypk/image.png"
+  },
+  {
+    "xid": "Q18818615",
+    "name": "Здание бывшей ланкастерской школы",
+    "dist": 1900.69303746,
+    "rate": 7,
+    "wikidata": "Q18818615",
+    "kinds": "historic_architecture,architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 31.00832176208496,
+      "lat": 52.436100006103516
+    },
+    "image": "https://i.ibb.co/LP7z8Qr/image.png"
+  },
+  {
+    "xid": "Q17043489",
+    "name": "Здание бывшего Русско-Азиатского банка",
+    "dist": 1940.27021063,
+    "rate": 7,
+    "wikidata": "Q17043489",
+    "kinds": "historic_architecture,architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 31.014028549194336,
+      "lat": 52.42699432373047
+    },
+    "image": "https://i.ibb.co/tJGH8Jz/image.png"
+  },
+  {
+    "xid": "Q58758243",
+    "name": "Здание бывшей городской думы",
+    "dist": 2014.83842766,
+    "rate": 7,
+    "wikidata": "Q58758243",
+    "kinds": "historic_architecture,architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 31.015140533447266,
+      "lat": 52.425689697265625
+    },
+    "image": "https://i.ibb.co/QdGNST0/image.png"
+  },
+  {
+    "xid": "N2788680553",
+    "name": "Доходный дом купца Лейбы Маянца",
+    "dist": 1869.51681121,
+    "rate": 7,
+    "osm": "node/4441137589",
+    "kinds": "historic_architecture,architecture,interesting_places,other_buildings_and_structures",
+    "point": {
+      "lon": 31.0129337310791,
+      "lat": 52.42751693725586
+    },
+    "image": "https://i.ibb.co/NW31tcx/12.png"
+  },
+  {
+    "xid": "N455895968",
+    "name": "Обзорная башня в Гомельском парке",
+    "dist": 2114.23689016,
+    "rate": 1,
+    "osm": "node/455895968",
+    "kinds": "view_points,other,architecture,towers,interesting_places,observation_towers",
+    "point": {
+      "lon": 31.014240264892578,
+      "lat": 52.41893768310547
+    },
+    "image": "https://i.ibb.co/rMKhFMh/image.png"
+  },
+  {
+    "xid": "W64742559",
+    "name": "Дворцово-парковый ансамбль Румянцевых-Паскевичей",
+    "dist": 2178.88747585,
+    "rate": 7,
+    "osm": "way/64742559",
+    "wikidata": "Q2384554",
+    "kinds": "palaces,architecture,historic_architecture,cultural,museums,interesting_places,history_museums",
+    "point": {
+      "lon": 31.01690101623535,
+      "lat": 52.4222526550293
+    },
+    "image": "https://i.ibb.co/DGYFvLn/image.png"
+  },
+  {
+    "xid": "W304955669",
+    "name": "Музей истории города Гомеля",
+    "dist": 2270.17631428,
+    "rate": 7,
+    "osm": "way/304955669",
+    "wikidata": "Q3920425",
+    "kinds": "palaces,architecture,historic_architecture,cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.018705368041992,
+      "lat": 52.42845153808594
+    },
+    "image": "https://i.ibb.co/gMNdSDw/image.png"
+  },
+  {
+    "xid": "N2788684408",
+    "name": "Усадебно-парковый комплекс Богуславских",
+    "dist": 5203.23228596,
+    "rate": 6,
+    "osm": "node/2788684408",
+    "wikidata": "Q105046912",
+    "kinds": "architecture,historic_architecture,urban_environment,gardens_and_parks,cultural,interesting_places,manor_houses",
+    "point": {
+      "lon": 31.00076675415039,
+      "lat": 52.47203826904297
+    },
+    "image": "https://i.ibb.co/PQH2wBk/image.png"
+  },
+  {
+    "xid": "W64946710",
+    "name": "Гомельский областной драматический театр",
+    "dist": 1921.01388402,
+    "rate": 7,
+    "osm": "way/64946710",
+    "wikidata": "Q2025621",
+    "kinds": "architecture,cultural,theatres_and_entertainments,interesting_places,other_theatres",
+    "point": {
+      "lon": 31.01368,
+      "lat": 52.424805
+    },
+    "image": "https://i.ibb.co/61wphXw/image.png"
+  },
+  {
+    "xid": "N2788680527",
+    "name": "Историческая застройка ул. Интернациональная",
+    "dist": 1413.02584042,
+    "rate": 1,
+    "osm": "node/2788680527",
+    "kinds": "other,unclassified_objects,interesting_places,tourist_object",
+    "point": {
+      "lon": 31.003286361694336,
+      "lat": 52.419620513916016
+    },
+    "image": "https://i.ibb.co/p3BvWKh/1280px-Internacional-street-ZIP.jpg"
+  },
+  {
+    "xid": "N2788680553",
+    "name": "Историческая застройка ул. Советская",
+    "dist": 1874.13981182,
+    "rate": 1,
+    "osm": "node/2788680553",
+    "kinds": "other,unclassified_objects,interesting_places,tourist_object",
+    "point": {
+      "lon": 31.013010025024414,
+      "lat": 52.427452087402344
+    },
+    "image": "https://i.ibb.co/cJ18dc2/image.png"
+  },
+  {
+    "xid": "N5271877721",
+    "name": "100 лет белорусской милиции",
+    "dist": 727.70533207,
+    "rate": 3,
+    "osm": "node/5271877721",
+    "wikidata": "Q64398988",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 30.9934024810791,
+      "lat": 52.43064498901367
+    },
+    "image": "https://i.ibb.co/3THQWgr/800px-A-monument-to-militsioner-in-Gomel.jpg"
+  },
+  {
+    "xid": "N3433708660",
+    "name": "Памятник Богдану Хмельницкому",
+    "dist": 852.04697547,
+    "rate": 3,
+    "osm": "node/3433708660",
+    "wikidata": "Q3919574",
+    "kinds": "historic,monuments_and_memorials,cultural,urban_environment,interesting_places,sculptures,monuments",
+    "point": {
+      "lon": 30.976350784301758,
+      "lat": 52.43142318725586
+    },
+    "image": "https://i.ibb.co/Hr9pDbf/image.png"
+  },
+  {
+    "xid": "N3811052325",
+    "name": "Памятник Тарасу Шевченко",
+    "dist": 979.21605399,
+    "rate": 1,
+    "osm": "node/3811052325",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 30.977792739868164,
+      "lat": 52.41879653930664
+    },
+    "image": "https://i.ibb.co/hZjFRLH/image.png"
+  },
+  {
+    "xid": "N506995066",
+    "name": "Памятник Комсомольцам",
+    "dist": 1119.4862364,
+    "rate": 7,
+    "osm": "node/506995066",
+    "wikidata": "Q62749470",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.001182556152344,
+      "lat": 52.429325103759766
+    },
+    "image": "https://i.ibb.co/0DsPdfL/image.jpg"
+  },
+  {
+    "xid": "N6617784087",
+    "name": "Братьям Лизюковым",
+    "dist": 1166.92521317,
+    "rate": 1,
+    "osm": "node/6617784087",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 30.999162673950195,
+      "lat": 52.43258285522461
+    },
+    "image": "https://i.ibb.co/nrY0bmS/image.png"
+  },
+  {
+    "xid": "N4498280690",
+    "name": "Портрет Емельяна Барыкина",
+    "dist": 1330.15150722,
+    "rate": 1,
+    "osm": "node/4498280690",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 30.99761390686035,
+      "lat": 52.416812896728516
+    },
+    "image": "https://i.ibb.co/gDKTgM8/image.png"
+  },
+  {
+    "xid": "N1362730423",
+    "name": "Памятник княгине Паскевич",
+    "dist": 1368.20949418,
+    "rate": 1,
+    "osm": "node/1362730423",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.00516128540039,
+      "lat": 52.42890167236328
+    },
+    "image": "https://i.ibb.co/mcGh6KK/image.png"
+  },
+  {
+    "xid": "N5744185571",
+    "name": "Портрет Станислава Шабуневского",
+    "dist": 1546.58688298,
+    "rate": 1,
+    "osm": "node/5744185571",
+    "kinds": "historic,wall_painting,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 31.001901626586914,
+      "lat": 52.43585968017578
+    },
+    "image": "https://i.ibb.co/5nrngZr/shabuneuski.png"
+  },
+  {
+    "xid": "N565633288",
+    "name": "Бюст А.А. Громыко",
+    "dist": 1821.59237611,
+    "rate": 3,
+    "osm": "node/565633288",
+    "wikidata": "Q184267",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.010711669921875,
+      "lat": 52.43178939819336
+    },
+    "image": "https://i.ibb.co/NrD28S6/image.png"
+  },
+  {
+    "xid": "Q93427007",
+    "name": "Памятник воинам-освободителям",
+    "dist": 1897.11915029,
+    "rate": 2,
+    "wikidata": "Q93427007",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.008806228637695,
+      "lat": 52.435611724853516
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%93%D1%80%D0%BE%D0%BC%D1%8B%D0%BA%D0%BE.png?alt=media&token=992557e2-9a33-4d1c-9929-6df248c692a8"
+  },
+  {
+    "xid": "N1548562401",
+    "name": "Памятный знак узникам концлагеря",
+    "dist": 1929.70227308,
+    "rate": 1,
+    "osm": "node/1548562401",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.008953094482422,
+      "lat": 52.43600082397461
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%BD%D0%B0%D0%BA%20%D1%83%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%20%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8F.png?alt=media&token=04e97a94-5b48-4c14-ac07-d991035582dc"
+  },
+  {
+    "xid": "N982375140",
+    "name": "Памятник Кириллу Туровскому",
+    "dist": 1938.66889998,
+    "rate": 3,
+    "osm": "node/982375140",
+    "wikidata": "Q62929866",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.013986587524414,
+      "lat": 52.42521667480469
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D1%83%20%D0%A2%D1%83%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC%D1%83.jpg?alt=media&token=8591b28f-a094-427f-a9bc-4bbdc8eacab9"
+  },
+  {
+    "xid": "N7746417985",
+    "name": "Памятник П.И. Чайковскому",
+    "dist": 2021.6338693,
+    "rate": 1,
+    "osm": "node/7746417985",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.015165328979492,
+      "lat": 52.42760467529297
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D1%87%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C.png?alt=media&token=1e9c2a17-7e4e-4895-a9ee-02d6be4bf781"
+  },
+  {
+    "xid": "Q98513596",
+    "name": "Памятник В.И. Ленину",
+    "dist": 2038.34606423,
+    "rate": 7,
+    "wikidata": "Q98513596",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.015316009521484,
+      "lat": 52.42420196533203
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D1%83%20%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C.png?alt=media&token=c5199e7e-d6d4-4d31-88bb-423112abb4bf"
+  },
+  {
+    "xid": "N6046017387",
+    "name": "Памятник Ф.Э. Дзержинскому",
+    "dist": 2044.98016955,
+    "rate": 1,
+    "osm": "node/6046017387",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.015586853027344,
+      "lat": 52.425758361816406
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%94%D0%B7%D0%B5%D1%80%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D0%A4.%D0%AD..png?alt=media&token=04dcb8f7-6049-410b-9820-b388c7233539"
+  },
+  {
+    "xid": "N2544998387",
+    "name": "Памятник Н.П. Румняцеву",
+    "dist": 2132.0270863,
+    "rate": 1,
+    "osm": "node/2544998387",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.01626968383789,
+      "lat": 52.42246627807617
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86%20%D0%A0%D1%83%D0%BC%D1%8F%D0%BD%D1%86%D0%B5%D0%B2%D1%8B%D1%85%20%D0%B8%20%D0%9F%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B5%D0%B9.png?alt=media&token=2ce58b40-defb-49f2-af3e-db9f431c32a3"
+  },
+  {
+    "xid": "N4920713422",
+    "name": "Бюст А.С. Пушкина",
+    "dist": 2269.06700275,
+    "rate": 1,
+    "osm": "node/4920713422",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.01874542236328,
+      "lat": 52.42810821533203
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%BF%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83.png?alt=media&token=f1dd71f9-b8c7-4ece-93a0-a86d474d9960"
+  },
+  {
+    "xid": "N534706847",
+    "name": "Монумент воинам-интернационалистам",
+    "dist": 2374.87624888,
+    "rate": 1,
+    "osm": "node/534706847",
+    "kinds": "historic,burial_places,interesting_places,war_memorials",
+    "point": {
+      "lon": 30.97810935974121,
+      "lat": 52.40536117553711
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B2%D0%BE%D0%B8%D0%BD%D0%B0%D0%BC-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D0%BC.png?alt=media&token=b6b37d4d-ecef-45fc-a0e9-5b82e2be9693"
+  },
+  {
+    "xid": "Q63952055",
+    "name": "Аллея Героев",
+    "dist": 2402.16050194,
+    "rate": 2,
+    "wikidata": "Q63952055",
+    "kinds": "historic,burial_places,interesting_places,war_memorials",
+    "point": {
+      "lon": 30.995695114135742,
+      "lat": 52.4468879699707
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%90%D0%BB%D0%BB%D0%B5%D1%8F%20%D0%93%D0%B5%D1%80%D0%BE%D0%B5%D0%B2.png?alt=media&token=b3927f8f-a552-48a8-ab51-2df8451d912b"
+  },
+  {
+    "xid": "N455938876",
+    "name": "Курган Славы",
+    "dist": 3548.58169826,
+    "rate": 1,
+    "osm": "node/455938876",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 30.942276000976562,
+      "lat": 52.40839767456055
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%D0%A1%D0%BB%D0%B0%D0%B2%D1%8B.png?alt=media&token=f6ee1c51-1cfd-487e-a6f5-d5f4b31fe7ca"
+  },
+  {
+    "xid": "N6644350486",
+    "name": "Памятник бомбардировщику Су-24М",
+    "dist": 3823.41931191,
+    "rate": 1,
+    "osm": "node/6644350486",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 30.93764877319336,
+      "lat": 52.40822982788086
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Fhistoric%2F%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D1%83%20%D0%A1%D1%83-24%D0%9C.png?alt=media&token=58194b00-f7cd-4bae-a770-c86228b10833"
+  },
+  {
+    "xid": "W131908278",
+    "name": "Картинная галерея Г. Х. Ващенко",
+    "dist": 1287.82162451,
+    "rate": 3,
+    "osm": "way/131908278",
+    "wikidata": "Q12108894",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.002880096435547,
+      "lat": 52.430850982666016
+    },
+    "image": "https://i.ibb.co/FV4hxYG/W131908278.png"
+  },
+  {
+    "xid": "N6399958785",
+    "name": "Музей истории печати и фотографии",
+    "dist": 1706.00106713,
+    "rate": 1,
+    "osm": "node/6399958785",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.010610580444336,
+      "lat": 52.42641067504883
+    },
+    "image": "https://i.ibb.co/xCFC9JQ/N6399958785.png"
+  },
+  {
+    "xid": "N8872041677",
+    "name": "Музей криминалистики",
+    "dist": 1935.78517418,
+    "rate": 1,
+    "osm": "node/8872041677",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.01318359375,
+      "lat": 52.43033218383789
+    },
+    "image": "https://i.ibb.co/wN0Rp6K/N8872041677.png"
+  },
+  {
+    "xid": "W89807468",
+    "name": "Гомельский областной музей военной славы",
+    "dist": 1979.48404601,
+    "rate": 3,
+    "osm": "way/89807468",
+    "wikidata": "Q17043528",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.01405143737793,
+      "lat": 52.42975616455078
+    },
+    "image": "https://i.ibb.co/bWsSgcH/W89807468-1.png"
+  },
+  {
+    "xid": "W247610146",
+    "name": "Зимний сад",
+    "dist": 2094.62139046,
+    "rate": 7,
+    "osm": "way/247610146",
+    "wikidata": "Q4192007",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.01388931274414,
+      "lat": 52.41887664794922
+    },
+    "image": "https://i.ibb.co/BnzP2DP/W247610146.png"
+  },
+  {
+    "xid": "W64742559",
+    "name": "Дворец Румянцевых и Паскевичей",
+    "dist": 2178.88747585,
+    "rate": 7,
+    "osm": "way/64742559",
+    "wikidata": "Q2384554",
+    "kinds": "palaces,architecture,historic_architecture,cultural,museums,interesting_places,history_museums",
+    "point": {
+      "lon": 31.01690101623535,
+      "lat": 52.4222526550293
+    },
+    "image": "https://i.ibb.co/GM3qJLj/image.png"
+  },
+  {
+    "xid": "W441472404",
+    "name": "Усыпальница Паскевичей",
+    "dist": 2220.57598119,
+    "rate": 1,
+    "osm": "way/441472404",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.017986297607422,
+      "lat": 52.42406463623047
+    },
+    "image": "https://i.ibb.co/zZY7tPx/image.png"
+  },
+  {
+    "xid": "W247610150",
+    "name": "Ветковский музей старообрядчества и белорусских традиций",
+    "dist": 2240.33200445,
+    "rate": 1,
+    "osm": "way/247610150",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.018177032470703,
+      "lat": 52.423553466796875
+    },
+    "image": "https://i.ibb.co/r5YWHWf/image.png"
+  },
+  {
+    "xid": "W304955669",
+    "name": "Музей истории города Гомеля",
+    "dist": 2270.17631428,
+    "rate": 7,
+    "osm": "way/304955669",
+    "wikidata": "Q3920425",
+    "kinds": "palaces,architecture,historic_architecture,cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.018705368041992,
+      "lat": 52.42845153808594
+    },
+    "image": "https://i.ibb.co/R391BX0/image.png"
+  },
+  {
+    "xid": "W246296502",
+    "name": "Гомельский историко-краеведческий музей",
+    "dist": 9396.59579563,
+    "rate": 1,
+    "osm": "way/246296502",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": 31.03309440612793,
+      "lat": 52.5055046081543
+    },
+    "image": "https://i.ibb.co/Vg7P9TX/image.png"
+  },
+  {
+    "xid": "W254692924",
+    "name": "Свято-Никольский мужской монастырь",
+    "dist": 1591.8151901,
+    "rate": 7,
+    "osm": "way/254692924",
+    "wikidata": "Q3920724",
+    "kinds": "religion,monasteries,interesting_places",
+    "point": {
+      "lon": 30.985048294067383,
+      "lat": 52.44051742553711
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "Q77386969",
+    "name": "Церковь Иверской иконы Божией Матери",
+    "dist": 1757.9526708,
+    "rate": 3,
+    "wikidata": "Q77386969",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.97311019897461,
+      "lat": 52.41236114501953
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "N7539775631",
+    "name": "Спасо-Преображенская церковь",
+    "dist": 1850.55740602,
+    "rate": 1,
+    "osm": "node/7539775631",
+    "kinds": "religion,other_temples,interesting_places",
+    "point": {
+      "lon": 31.008609771728516,
+      "lat": 52.41740798950195
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "Q11745826",
+    "name": "Касцёл Унебаўзяцця Найсвяцейшай Дзевы Марыі",
+    "dist": 1931.87917712,
+    "rate": 3,
+    "wikidata": "Q11745826",
+    "kinds": "religion,churches,interesting_places,other_churches",
+    "point": {
+      "lon": 31.013669967651367,
+      "lat": 52.423858642578125
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W284578207",
+    "name": "Ильинская церковь 1794г.",
+    "dist": 1994.0477635,
+    "rate": 3,
+    "osm": "way/284578207",
+    "wikidata": "Q3919203",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 31.008636474609375,
+      "lat": 52.415184020996094
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W64946692",
+    "name": "Собор Святых Апостолов Петра и Павла",
+    "dist": 2184.05638177,
+    "rate": 7,
+    "osm": "way/64946692",
+    "wikidata": "Q3919178",
+    "kinds": "religion,cathedrals,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 31.0174503326416,
+      "lat": 52.4240837097168
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W247610142",
+    "name": "Часовня-усыпальница князей Паскевичей",
+    "dist": 2234.8480971,
+    "rate": 7,
+    "osm": "way/247610142",
+    "wikidata": "Q4507582",
+    "kinds": "religion,historic,churches,burial_places,interesting_places,other_burial_places,other_churches",
+    "point": {
+      "lon": 31.0181884765625,
+      "lat": 52.42401123046875
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W270794520",
+    "name": "Храм Иоанна Кормянского",
+    "dist": 2246.61038456,
+    "rate": 1,
+    "osm": "way/270794520",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.95250701904297,
+      "lat": 52.426326751708984
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "R1753370",
+    "name": "Костёл Рождества Пресвятой Девы Марии",
+    "dist": 2453.98750103,
+    "rate": 3,
+    "osm": "relation/1753370",
+    "wikidata": "Q11745495",
+    "kinds": "religion,churches,interesting_places,catholic_churches",
+    "point": {
+      "lon": 30.99791145324707,
+      "lat": 52.446929931640625
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "Q77530788",
+    "name": "Церковь Архангела Михаила",
+    "dist": 3651.33311438,
+    "rate": 3,
+    "wikidata": "Q77530788",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.94041633605957,
+      "lat": 52.408443450927734
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "Q77587411",
+    "name": "Храм Сергия Радонежского",
+    "dist": 4331.02802253,
+    "rate": 3,
+    "osm": "way/437155667",
+    "wikidata": "Q77587411",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.92702865600586,
+      "lat": 52.44158172607422
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W287699314",
+    "name": "Храм святителя Николая Чудотворца",
+    "dist": 4352.32294315,
+    "rate": 7,
+    "osm": "way/287699314",
+    "wikidata": "Q77289892",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 31.03533935546875,
+      "lat": 52.45077896118164
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W103401785",
+    "name": "Храм Казанской иконы Божией Матери",
+    "dist": 5545.520037,
+    "rate": 1,
+    "osm": "way/103401785",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.9689998626709,
+      "lat": 52.475013732910156
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "Q77220527",
+    "name": "Собор Александра Невского",
+    "dist": 6056.55253392,
+    "rate": 3,
+    "wikidata": "Q77220527",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 31.03180503845215,
+      "lat": 52.379722595214844
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "Q77544073",
+    "name": "Церковь святого Пантелеймона",
+    "dist": 6089.20785975,
+    "rate": 3,
+    "wikidata": "Q77544073",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.90969467163086,
+      "lat": 52.39716720581055
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W307111417",
+    "name": "Храм Успения Пресвятой Богородицы",
+    "dist": 6541.9236406,
+    "rate": 1,
+    "osm": "way/307111417",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.919639587402344,
+      "lat": 52.46905517578125
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W459216157",
+    "name": "Храм Грузинской иконы Божией Матери",
+    "dist": 8179.99613513,
+    "rate": 1,
+    "osm": "way/459216157",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 31.01228141784668,
+      "lat": 52.35454559326172
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W309025756",
+    "name": "Храм апостола и евангелиста Иоанна Богослова",
+    "dist": 8475.92980068,
+    "rate": 1,
+    "osm": "way/309025756",
+    "kinds": "religion,other_temples,interesting_places",
+    "point": {
+      "lon": 31.104778289794922,
+      "lat": 52.40418243408203
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W316773685",
+    "name": "Церковь Тихвинской Богоматери",
+    "dist": 9069.94788609,
+    "rate": 1,
+    "osm": "way/316773685",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.967790603637695,
+      "lat": 52.34543228149414
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W244799315",
+    "name": "Храм преподобного Никиты Исповедника",
+    "dist": 9283.14505418,
+    "rate": 1,
+    "osm": "way/244799315",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 31.03522300720215,
+      "lat": 52.50392150878906
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W125084864",
+    "name": "Храм Покрова Пресвятой Богородицы (1980)",
+    "dist": 9711.67043054,
+    "rate": 1,
+    "osm": "way/125084864",
+    "kinds": "religion,churches,interesting_places,eastern_orthodox_churches",
+    "point": {
+      "lon": 30.945207595825195,
+      "lat": 52.50994110107422
+    },
+    "image": "https://ibb.co/PN6jRHM"
+  },
+  {
+    "xid": "W64742601",
+    "name": "Дворец культуры железнодорожников им. В. И. Ленина",
+    "dist": 671.92501578,
+    "rate": 7,
+    "osm": "way/64742601",
+    "wikidata": "Q64438344",
+    "kinds": "cultural,theatres_and_entertainments,interesting_places,other_theatres",
+    "point": {
+      "lon": 30.992835998535156,
+      "lat": 52.43027877807617
+    },
+    "image": "https://i.ibb.co/jffPMmZ/image.png"
+  },
+  {
+    "xid": "W346559073",
+    "name": "Гомельский государственный цирк",
+    "dist": 1892.51254724,
+    "rate": 3,
+    "osm": "way/346559073",
+    "wikidata": "Q1991356",
+    "kinds": "cultural,museums,interesting_places,zoos",
+    "point": {
+      "lon": 31.010028839111328,
+      "lat": 52.43428039550781
+    },
+    "image": "https://i.ibb.co/sJ0DkMQ/image.png"
+  },
+  {
+    "xid": "W64946710",
+    "name": "Гомельский областной драматический театр",
+    "dist": 1921.74908521,
+    "rate": 7,
+    "osm": "way/64946710",
+    "wikidata": "Q2025621",
+    "kinds": "cultural,theatres_and_entertainments,interesting_places,other_theatres",
+    "point": {
+      "lon": 31.013689041137695,
+      "lat": 52.424800872802734
+    },
+    "image": "https://i.ibb.co/LCgY8Yt/image.png"
+  },
+  {
+    "xid": "W64742590",
+    "name": "Гомельский государственный театр кукол",
+    "dist": 1937.64718426,
+    "rate": 3,
+    "osm": "way/64742590",
+    "wikidata": "Q13030478",
+    "kinds": "cultural,theatres_and_entertainments,interesting_places,other_theatres",
+    "point": {
+      "lon": 31.012439727783203,
+      "lat": 52.43193054199219
+    },
+    "image": "https://i.ibb.co/944zXX5/image.png"
+  },
+  {
+    "xid": "W64946710",
+    "name": "Гомельская областная филармония",
+    "dist": 1921.74908521,
+    "rate": 7,
+    "osm": "way/64946710",
+    "wikidata": "Q2025621",
+    "kinds": "cultural,theatres_and_entertainments,interesting_places,other_theatres",
+    "point": {
+      "lon": 31.013689041137695,
+      "lat": 52.424800872802734
+    },
+    "image": "https://i.ibb.co/sJ4vJxw/image.jpg"
+  },
+  {
+    "xid": "W64946710",
+    "name": "Театр мимики и жеста",
+    "dist": 1921.74908521,
+    "rate": 7,
+    "osm": "way/64946710",
+    "wikidata": "Q2025621",
+    "kinds": "cultural,theatres_and_entertainments,interesting_places,other_theatres",
+    "point": {
+      "lon": 31.013689041137695,
+      "lat": 52.424800872802734
+    },
+    "image": "https://i.ibb.co/f8K92GK/1043fcd4b51eee8990c2b503d003c7f0.png"
+  },
+  {
+    "xid": "W64946710",
+    "name": "Гомельские городские орекестры",
+    "dist": 1921.74908521,
+    "rate": 7,
+    "osm": "way/64946710",
+    "wikidata": "Q2025621",
+    "kinds": "cultural,theatres_and_entertainments,interesting_places,other_theatres",
+    "point": {
+      "lon": 31.013689041137695,
+      "lat": 52.424800872802734
+    },
+    "image": "https://i.ibb.co/tsbpSW0/image.png"
+  },
+  {
+    "xid": "W64946710",
+    "name": "Гомельский ледовый дворец спорта",
+    "dist": 1921.74908521,
+    "rate": 7,
+    "osm": "way/53663256",
+    "wikidata": "Q2025621",
+    "kinds": "cultural,theatres_and_entertainments,interesting_places,other_theatres",
+    "point": {
+      "lon": 31.013689041137695,
+      "lat": 52.424800872802734
+    },
+    "image": "https://i.ibb.co/y69Pk00/2tx-Tl-Un-COx-Y.png"
+  },
+  {
+    "xid": "N6611944863",
+    "name": "Скульптура \"Ванька-встанька\"",
+    "dist": 654.92553606,
+    "rate": 1,
+    "osm": "node/6611944863",
+    "kinds": "cultural,urban_environment,interesting_places,sculptures",
+    "point": {
+      "lon": 30.99445343017578,
+      "lat": 52.428428649902344
+    },
+    "image": "https://i.ibb.co/drCTXdF/image.png"
+  },
+  {
+    "xid": "N5271869222",
+    "name": "Памятник \"Чемоданное Настроение\"",
+    "dist": 686.95970084,
+    "rate": 1,
+    "osm": "node/5271869222",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 30.991397857666016,
+      "lat": 52.43124008178711
+    },
+    "image": "https://ibb.co/album/17DFjk"
+  },
+  {
+    "xid": "N6611944862",
+    "name": "Скульптура \"Молодожёны\"",
+    "dist": 662.02936376,
+    "rate": 1,
+    "osm": "node/6611944862",
+    "kinds": "cultural,urban_environment,interesting_places,sculptures",
+    "point": {
+      "lon": 30.9949951171875,
+      "lat": 52.427608489990234
+    },
+    "image": "https://i.ibb.co/jfbTM6D/molodozheny.png"
+  },
+  {
+    "xid": "N5744249055",
+    "name": "Арт-работа \"Выше неба\"",
+    "dist": 971.73280608,
+    "rate": 1,
+    "osm": "node/5744249055",
+    "kinds": "wall_painting,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 30.99793815612793,
+      "lat": 52.430545806884766
+    },
+    "image": "https://i.ibb.co/zxvfr7R/image.png"
+  },
+  {
+    "xid": "Q64216521",
+    "name": "Комсомольский сквер",
+    "dist": 1109.460819,
+    "rate": 2,
+    "wikidata": "Q64216521",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 31.001083374023438,
+      "lat": 52.429222106933594
+    },
+    "image": "https://i.ibb.co/TWm4902/image.jpg"
+  },
+  {
+    "xid": "N5744249053",
+    "name": "Арт-работа \"Росток\"",
+    "dist": 1293.32305468,
+    "rate": 1,
+    "osm": "node/5744249053",
+    "kinds": "wall_painting,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 30.99588394165039,
+      "lat": 52.43596267700195
+    },
+    "image": "https://i.ibb.co/k6p6tjp/image.jpg"
+  },
+  {
+    "xid": "N4173041789",
+    "name": "Памятник дворнику",
+    "dist": 1325.29187109,
+    "rate": 1,
+    "osm": "node/4173041789",
+    "kinds": "cultural,urban_environment,interesting_places,sculptures",
+    "point": {
+      "lon": 31.004987716674805,
+      "lat": 52.426849365234375
+    },
+    "image": "https://i.ibb.co/txf7HJ4/image.png"
+  },
+  {
+    "xid": "N8194316819",
+    "name": "Скульптура \"Бегущий пассажир\"",
+    "dist": 1010.89759081,
+    "rate": 1,
+    "osm": "node/8194316819",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 30.992992401123047,
+      "lat": 52.4340705871582
+    },
+    "image": "https://i.ibb.co/6sKxHpR/image.png"
+  },
+  {
+    "xid": "N5744249047",
+    "name": "Арт-работа \"Жизненный багаж\"",
+    "dist": 1348.23564687,
+    "rate": 1,
+    "osm": "node/5744249047",
+    "kinds": "wall_painting,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 30.998882293701172,
+      "lat": 52.4351692199707
+    },
+    "image": "https://i.ibb.co/w48pv9S/image.jpg"
+  },
+  {
+    "xid": "N5744249054",
+    "name": "Арт-работа \"Доброе утро\"",
+    "dist": 1402.81766407,
+    "rate": 1,
+    "osm": "node/5744249054",
+    "kinds": "wall_painting,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 30.998008728027344,
+      "lat": 52.43625259399414
+    },
+    "image": "https://i.ibb.co/8r2SdNY/image.jpg"
+  },
+  {
+    "xid": "Q63565894",
+    "name": "Памятник клоуну Карандашу и собаке Кляксе",
+    "dist": 1818.54266894,
+    "rate": 3,
+    "wikidata": "Q63565894",
+    "kinds": "historic,monuments_and_memorials,interesting_places,monuments",
+    "point": {
+      "lon": 31.008888244628906,
+      "lat": 52.43416976928711
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88%D1%83%20(%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C).png?alt=media&token=de21cefb-99e0-4fc9-806c-ad58b6bf055f"
+  },
+  {
+    "xid": "W44529500",
+    "name": "Сквер им А.А. Громыко",
+    "dist": 1855.54158731,
+    "rate": 2,
+    "osm": "way/44529500",
+    "wikidata": "Q63953175",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": 31.011180877685547,
+      "lat": 52.4318962097168
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%93%D1%80%D0%BE%D0%BC%D1%8B%D0%BA%D0%BE.png?alt=media&token=8ec120db-05d8-4353-9b89-7b5b004a36b6"
+  },
+  {
+    "xid": "N1496973340",
+    "name": "Скульптура \"Золотой ключик\"",
+    "dist": 1912.02241018,
+    "rate": 1,
+    "osm": "node/1496973340",
+    "kinds": "cultural,urban_environment,interesting_places,installation",
+    "point": {
+      "lon": 31.0120849609375,
+      "lat": 52.431854248046875
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D0%BA.png?alt=media&token=d81daf70-9151-4776-a964-2d5c5805503a"
+  },
+  {
+    "xid": "Q64223689",
+    "name": "Сквер имени Ф.Э. Дзержинского",
+    "dist": 1944.75303924,
+    "rate": 2,
+    "wikidata": "Q64223689",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 31.014083862304688,
+      "lat": 52.4253044128418
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%94%D0%B7%D0%B5%D1%80%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D0%A4.%D0%AD..png?alt=media&token=b84c52b6-c59d-420c-a778-18e7022ad014"
+  },
+  {
+    "xid": "Q63953134",
+    "name": "Сквер Кирилла Туровского",
+    "dist": 1944.75303924,
+    "rate": 2,
+    "wikidata": "Q63953134",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 31.014083862304688,
+      "lat": 52.4253044128418
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F543a53a6036f497d5717fabdeb01c0c8.jpg?alt=media&token=39f4d74b-aebb-47f7-aefd-b51b43624fb0"
+  },
+  {
+    "xid": "N3139545637",
+    "name": "Скульптура \"Солнце и Луна\"",
+    "dist": 1957.31764378,
+    "rate": 1,
+    "osm": "node/3139545637",
+    "kinds": "cultural,urban_environment,interesting_places,installation",
+    "point": {
+      "lon": 30.987783432006836,
+      "lat": 52.40867614746094
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%B8%D0%BB%D1%83%D0%BD%D0%B0.png?alt=media&token=d23ed27f-2065-4913-9476-1bf7dc5689da"
+  },
+  {
+    "xid": "W38524071",
+    "name": "Парк Дворцово-паркового ансамбля Румянцевых-Паскевичей",
+    "dist": 2156.43349024,
+    "rate": 3,
+    "osm": "way/38524071",
+    "wikidata": "Q18292701",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": 31.016674041748047,
+      "lat": 52.42259216308594
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%BF%D0%B0%D1%80%D0%BA%20%D0%BF%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B5%D0%B9.png?alt=media&token=d26d8a1c-2f6b-4197-b157-c0e0aeb3e96d"
+  },
+  {
+    "xid": "Q2034879",
+    "name": "Советская улица",
+    "dist": 2167.46835416,
+    "rate": 7,
+    "wikidata": "Q2034879",
+    "kinds": "cultural,urban_environment,interesting_places,squares",
+    "point": {
+      "lon": 31.001699447631836,
+      "lat": 52.44300079345703
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.png?alt=media&token=5413633b-cb1d-4326-9b14-1794f730a74b"
+  },
+  {
+    "xid": "N5598855936",
+    "name": "Граф Паскевич с собаками",
+    "dist": 2198.21489689,
+    "rate": 1,
+    "osm": "node/5598855936",
+    "kinds": "cultural,urban_environment,interesting_places,sculptures",
+    "point": {
+      "lon": 31.016342163085938,
+      "lat": 52.420257568359375
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%BF%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D1%81%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0%D0%BC%D0%B8.png?alt=media&token=1115eba9-8ace-4333-b303-34343d308e57"
+  },
+  {
+    "xid": "N1808494987",
+    "name": "Памятник\"Лодочник\"",
+    "dist": 2293.18940952,
+    "rate": 1,
+    "osm": "node/1808494987",
+    "kinds": "cultural,urban_environment,interesting_places,installation",
+    "point": {
+      "lon": 31.019119262695312,
+      "lat": 52.4244384765625
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%BB%D0%BE%D0%B4%D0%BE%D1%87%D0%BD%D0%B8%D0%BA.png?alt=media&token=f68f2319-d2d7-472a-ae1b-dcc73961ab3f"
+  },
+  {
+    "xid": "Q63952123",
+    "name": "Студенческий сквер",
+    "dist": 2402.16050194,
+    "rate": 1,
+    "wikidata": "Q63952123",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 30.995695114135742,
+      "lat": 52.4468879699707
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B2%D0%B5%D1%80.png?alt=media&token=9a2abbc4-9b65-4b3a-82fe-202ab78f22c7"
+  },
+  {
+    "xid": "N6944512625",
+    "name": "Лошадь из металла",
+    "dist": 2430.26287068,
+    "rate": 1,
+    "osm": "node/6944512625",
+    "kinds": "cultural,urban_environment,interesting_places,installation",
+    "point": {
+      "lon": 30.952529907226562,
+      "lat": 52.4345817565918
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%BB%D0%BE%D1%88%D0%B0%D0%B4%D1%8C.png?alt=media&token=cb6d2504-3ed5-4322-9a57-901b7f74b583"
+  },
+  {
+    "xid": "Q64221161",
+    "name": "Сквер имени Янки Купалы",
+    "dist": 2826.84967458,
+    "rate": 2,
+    "wikidata": "Q64221161",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": 30.951250076293945,
+      "lat": 52.411861419677734
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%A1%D0%BA%D0%B2%D0%B5%D1%80%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%AF%D0%BD%D0%BA%D0%B8%20%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D1%8B.png?alt=media&token=fd1967c5-b7b0-4227-933b-9e15ecf0bb78"
+  },
+  {
+    "xid": "N3714116499",
+    "name": "Скульптура Гулливера",
+    "dist": 3417.67042414,
+    "rate": 1,
+    "osm": "node/3714116499",
+    "kinds": "cultural,urban_environment,interesting_places,installation",
+    "point": {
+      "lon": 30.942340850830078,
+      "lat": 52.4105339050293
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%B3%D1%83%D0%BB%D0%BB.png?alt=media&token=08445450-be81-40fa-8ac7-032a27fb89a5"
+  },
+  {
+    "xid": "N1362801380",
+    "name": "Скульптурная группа\"Дама с собачкой\"",
+    "dist": 3930.28753469,
+    "rate": 1,
+    "osm": "node/1362801380",
+    "kinds": "cultural,urban_environment,interesting_places,sculptures",
+    "point": {
+      "lon": 30.935165405273438,
+      "lat": 52.40892028808594
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%B4%D0%B0%D0%BC%D0%B0%20%D1%81%20%D1%81%D0%BE%D0%B1%D0%B0%D0%BA.png?alt=media&token=bb9717df-af50-4e6c-8efc-46554f6eaf20"
+  },
+  {
+    "xid": "N4349825102",
+    "name": "Скульптурная группа\"Охотник с собакой\"",
+    "dist": 3980.18604469,
+    "rate": 1,
+    "osm": "node/4349825102",
+    "kinds": "cultural,urban_environment,interesting_places,sculptures",
+    "point": {
+      "lon": 30.965877532958984,
+      "lat": 52.45990753173828
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D1%81%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%BE%D0%B9.png?alt=media&token=b206801e-5a03-49ff-85da-14d37f8df9a0"
+  },
+  {
+    "xid": "N4524787641",
+    "name": "Рысь",
+    "dist": 5842.92509125,
+    "rate": 1,
+    "osm": "node/4524787641",
+    "kinds": "cultural,urban_environment,interesting_places,sculptures",
+    "point": {
+      "lon": 30.908113479614258,
+      "lat": 52.40349578857422
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D1%80%D1%8B%D1%81%D1%8C.png?alt=media&token=de393122-7767-4aa9-baeb-46a959ada725"
+  },
+  {
+    "xid": "N3735598642",
+    "name": "Композиция «Маяк»",
+    "dist": 2147.52422769,
+    "rate": 1,
+    "osm": "node/3735598642",
+    "kinds": "other,unclassified_objects,interesting_places,tourist_object",
+    "point": {
+      "lon": 31.009307861328125,
+      "lat": 52.413516998291016
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D0%BC%D0%B0%D1%8F%D0%BA.jpg?alt=media&token=ee627863-d0e8-46ac-91bf-69f5b91dcb41"
+  },
+  {
+    "xid": "N4334342489",
+    "name": "Скамья с влюбленными фонарями",
+    "dist": 2370.49022209,
+    "rate": 1,
+    "osm": "node/4334342489",
+    "kinds": "other,unclassified_objects,interesting_places,tourist_object",
+    "point": {
+      "lon": 31.020357131958008,
+      "lat": 52.42699432373047
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D1%84%D0%BE%D0%BD%D0%B0%D1%80%D0%B8.jpg?alt=media&token=6197853c-d197-4282-8348-434f5fa2d212"
+  },
+
+  {
+    "xid": "N5026709924",
+    "name": "Парк \"Фестивальный\"",
+    "dist": 3558.52103584,
+    "rate": 1,
+    "osm": "node/5026709924",
+    "kinds": "other,unclassified_objects,interesting_places,tourist_object",
+    "point": {
+      "lon": 30.942630767822266,
+      "lat": 52.407920837402344
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.jpg?alt=media&token=d7459ebf-f416-4d43-9d94-2f1ee74ca20f"
+  },
+  {
+    "xid": "N6463058985",
+    "name": "Сквер ГГТУ им. П.О. Сухого",
+    "dist": 3815.91028366,
+    "rate": 1,
+    "osm": "node/6463058985",
+    "kinds": "other,unclassified_objects,interesting_places,tourist_object",
+    "point": {
+      "lon": 30.937545776367188,
+      "lat": 52.40846252441406
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/gomeltravelapp.appspot.com/o/images%2Furban_environment%2F%D1%81%D0%BA%D0%B2%D0%B5%D1%80%D1%81%D1%83%D1%85%D0%BE%D0%B3%D0%BE.jpg?alt=media&token=fa83bffd-0c4f-446f-b5fe-6e342b8b39a8"
+  }
+]

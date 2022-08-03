@@ -1,0 +1,198 @@
+@startuml
+
+title __GOMELTRAVELAPP.APP's Class Diagram__\n
+
+  namespace com.example.gomeltravelapp {
+    class com.example.gomeltravelapp.BuildConfig {
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    interface com.example.gomeltravelapp.PlaceApplication_GeneratedInjector {
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace data.remote.repository {
+      class com.example.gomeltravelapp.data.remote.repository.PlaceRepositoryImpl_Factory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace di {
+      class com.example.gomeltravelapp.di.AppModule_ProvideGetPlaceDetailUseCaseFactory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace di {
+      class com.example.gomeltravelapp.di.AppModule_ProvideGetPlaceUseCaseFactory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace di {
+      class com.example.gomeltravelapp.di.AppModule_ProvidePlaceApiFactory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace di {
+      class com.example.gomeltravelapp.di.AppModule_ProvidePlaceRepositoryFactory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace domain.usecase.DetailUseCase {
+      class com.example.gomeltravelapp.domain.usecase.DetailUseCase.GetPlaceDetailUseCase_Factory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace presentation {
+      abstract class com.example.gomeltravelapp.presentation.Hilt_MainActivity {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace presentation {
+      interface com.example.gomeltravelapp.presentation.MainActivity_GeneratedInjector {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace presentation {
+      class com.example.gomeltravelapp.presentation.PlaceDetailViewModel_Factory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace presentation {
+      class com.example.gomeltravelapp.presentation.PlaceDetailViewModel_HiltModules {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace presentation {
+      class com.example.gomeltravelapp.presentation.PlaceDetailViewModel_HiltModules_KeyModule_ProvideFactory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace presentation {
+      class com.example.gomeltravelapp.presentation.PlaceViewModel_Factory {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace presentation {
+      class com.example.gomeltravelapp.presentation.PlaceViewModel_HiltModules {
+      }
+    }
+  }
+  
+
+  namespace com.example.gomeltravelapp {
+    namespace presentation {
+      class com.example.gomeltravelapp.presentation.PlaceViewModel_HiltModules_KeyModule_ProvideFactory {
+      }
+    }
+  }
+  
+
+  namespace dagger.hilt.internal.aggregatedroot.codegen {
+    class dagger.hilt.internal.aggregatedroot.codegen._com_example_gomeltravelapp_PlaceApplication {
+    }
+  }
+  
+
+  namespace hilt_aggregated_deps {
+    class hilt_aggregated_deps._com_example_gomeltravelapp_PlaceApplication_GeneratedInjector {
+    }
+  }
+  
+
+  namespace hilt_aggregated_deps {
+    class hilt_aggregated_deps._com_example_gomeltravelapp_di_AppModule {
+    }
+  }
+  
+
+  namespace hilt_aggregated_deps {
+    class hilt_aggregated_deps._com_example_gomeltravelapp_presentation_MainActivity_GeneratedInjector {
+    }
+  }
+  
+
+  namespace hilt_aggregated_deps {
+    class hilt_aggregated_deps._com_example_gomeltravelapp_presentation_PlaceDetailViewModel_HiltModules_BindsModule {
+    }
+  }
+  
+
+  namespace hilt_aggregated_deps {
+    class hilt_aggregated_deps._com_example_gomeltravelapp_presentation_PlaceDetailViewModel_HiltModules_KeyModule {
+    }
+  }
+  
+
+  namespace hilt_aggregated_deps {
+    class hilt_aggregated_deps._com_example_gomeltravelapp_presentation_PlaceViewModel_HiltModules_BindsModule {
+    }
+  }
+  
+
+  namespace hilt_aggregated_deps {
+    class hilt_aggregated_deps._com_example_gomeltravelapp_presentation_PlaceViewModel_HiltModules_KeyModule {
+    }
+  }
+  
+
+  com.example.gomeltravelapp.data.remote.repository.PlaceRepositoryImpl_Factory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.di.AppModule_ProvideGetPlaceDetailUseCaseFactory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.di.AppModule_ProvideGetPlaceUseCaseFactory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.di.AppModule_ProvidePlaceApiFactory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.di.AppModule_ProvidePlaceRepositoryFactory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.domain.usecase.DetailUseCase.GetPlaceDetailUseCase_Factory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.presentation.Hilt_MainActivity .up.|> dagger.hilt.internal.GeneratedComponentManagerHolder
+  com.example.gomeltravelapp.presentation.Hilt_MainActivity -up-|> androidx.activity.ComponentActivity
+  com.example.gomeltravelapp.presentation.PlaceDetailViewModel_Factory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.presentation.PlaceDetailViewModel_HiltModules_KeyModule_ProvideFactory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.presentation.PlaceViewModel_Factory .up.|> dagger.internal.Factory
+  com.example.gomeltravelapp.presentation.PlaceViewModel_HiltModules_KeyModule_ProvideFactory .up.|> dagger.internal.Factory
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml

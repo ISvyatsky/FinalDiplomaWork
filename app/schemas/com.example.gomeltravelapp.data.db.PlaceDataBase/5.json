@@ -1,0 +1,135 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 5,
+    "identityHash": "5e43ab1a59db4f29891f03ac3ae7ca85",
+    "entities": [
+      {
+        "tableName": "gomelplaces",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`dist` REAL NOT NULL, `types` TEXT NOT NULL, `name` TEXT NOT NULL, `image` TEXT NOT NULL, `point` TEXT NOT NULL, `rate` INTEGER NOT NULL, `saved` INTEGER NOT NULL, `id` INTEGER NOT NULL, `adress` TEXT NOT NULL, `information` TEXT NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "dist",
+            "columnName": "dist",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "types",
+            "columnName": "types",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "image",
+            "columnName": "image",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "point",
+            "columnName": "point",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "rate",
+            "columnName": "rate",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "saved",
+            "columnName": "saved",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "adress",
+            "columnName": "adress",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "information",
+            "columnName": "information",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "id"
+          ],
+          "autoGenerate": false
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "ftsVersion": "FTS4",
+        "ftsOptions": {
+          "tokenizer": "simple",
+          "tokenizerArgs": [],
+          "contentTable": "gomelplaces",
+          "languageIdColumnName": "",
+          "matchInfo": "FTS4",
+          "notIndexedColumns": [],
+          "prefixSizes": [],
+          "preferredOrder": "ASC"
+        },
+        "contentSyncTriggers": [
+          "CREATE TRIGGER IF NOT EXISTS room_fts_content_sync_gomelplacesfts_BEFORE_UPDATE BEFORE UPDATE ON `gomelplaces` BEGIN DELETE FROM `gomelplacesfts` WHERE `docid`=OLD.`rowid`; END",
+          "CREATE TRIGGER IF NOT EXISTS room_fts_content_sync_gomelplacesfts_BEFORE_DELETE BEFORE DELETE ON `gomelplaces` BEGIN DELETE FROM `gomelplacesfts` WHERE `docid`=OLD.`rowid`; END",
+          "CREATE TRIGGER IF NOT EXISTS room_fts_content_sync_gomelplacesfts_AFTER_UPDATE AFTER UPDATE ON `gomelplaces` BEGIN INSERT INTO `gomelplacesfts`(`docid`, `id`, `types`, `name`) VALUES (NEW.`rowid`, NEW.`id`, NEW.`types`, NEW.`name`); END",
+          "CREATE TRIGGER IF NOT EXISTS room_fts_content_sync_gomelplacesfts_AFTER_INSERT AFTER INSERT ON `gomelplaces` BEGIN INSERT INTO `gomelplacesfts`(`docid`, `id`, `types`, `name`) VALUES (NEW.`rowid`, NEW.`id`, NEW.`types`, NEW.`name`); END"
+        ],
+        "tableName": "gomelplacesfts",
+        "createSql": "CREATE VIRTUAL TABLE IF NOT EXISTS `${TABLE_NAME}` USING FTS4(`id` INTEGER NOT NULL, `types` TEXT NOT NULL, `name` TEXT NOT NULL, content=`gomelplaces`)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "types",
+            "columnName": "types",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [],
+          "autoGenerate": false
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '5e43ab1a59db4f29891f03ac3ae7ca85')"
+    ]
+  }
+}
